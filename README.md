@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ali Shafi
 
-<!--
-**ashafiuae/ashafiuae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Executive Strategic Leader & Board Member** based in Dubai, UAE.
 
-Here are some ideas to get you started:
+Over 20 years of experience driving regional expansion, luxury real estate developments, investments, and technology integration across the GCC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Key Focus Areas
+- Executive Leadership & Governance
+- Real Estate & Luxury Interiors Development
+- Digital Transformation & Tech Investment
+- Strategic Alliances in the GCC Market
+
+---
+
+🌐 **Website:** [alishafi.com](https://www.alishafi.com)  
+💼 **LinkedIn:** [linkedin.com/in/mr-ali-shafi](https://www.linkedin.com/in/mr-ali-shafi)  
+✍️ **Substack:** [alishafiofficial.substack.com](https://alishafiofficial.substack.com)
